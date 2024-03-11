@@ -1,6 +1,7 @@
 .dele {
     width: 170px;
     margin-left: 25px;
+    margin-bottom: -50px;
 }
 .kul p {
     font-family: InterVariable, ui-sans-serif, system-ui, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
@@ -10,7 +11,15 @@
     color: rgb(211, 211, 211);
     margin-left: 40px;
 }
-.kul p:hover {
+.kul a {
+    font-family: InterVariable, ui-sans-serif, system-ui, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+    font-weight: 600;
+    font-size: 12px;
+    line-height: 16px;
+    color: rgb(211, 211, 211);
+    margin-left: 40px;
+}
+.kul a:hover {
     color: white;
 }
 .ff {
@@ -27,7 +36,7 @@
 }
 .fk {
     background: #4338CA;
-    padding-top: 50px;
+    padding-top: 20px;
     padding-bottom: 150px;
     overflow: hidden;
 }
