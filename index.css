@@ -1,7 +1,7 @@
 .dele {
     width: 170px;
     margin-left: 25px;
-    margin-bottom: -50px;
+    margin-right: 200px;
 }
 .kul p {
     font-family: InterVariable, ui-sans-serif, system-ui, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
@@ -23,7 +23,7 @@
     color: white;
 }
 .ff {
-    padding-left: 190px;
+    margin-left: 190px;
 }
 .kaka {
     font-family: InterVariable, ui-sans-serif, system-ui, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
